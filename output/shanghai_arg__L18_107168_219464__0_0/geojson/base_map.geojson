@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "poly",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": 0, "height": 0.0, "texture_img": "output\\shanghai_arg__L18_107168_219464__0_0\\geojson/base_img.png", "roof_texture_area_bottom": 1.0, "roof_texture_area_right": 1.0, "wall_texture_area_right": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -7900000.0, 5205000.0, 0.0 ], [ -7900000.0, 5204846.549999999813735, 0.0 ], [ -7899846.549999999813735, 5204846.549999999813735, 0.0 ], [ -7899846.549999999813735, 5205000.0, 0.0 ] ] ] } }
+]
+}
